@@ -34,13 +34,11 @@ import './Style.css';
           ))}
         </div>
 
-        <div className='tabcontent-border'>
-        {children.map((element, index) => (
-            <div id={index} className="tabcontent" key={Math.random()}>
-              <div className='tabcontent-item'> {element.props.children}</div>
-            </div>
-          ))}
-        </div>
+      {children.map((element, index) => (
+          <div id={index} className="tabcontent" key={Math.random()}>
+            <div className='tabcontent-item'> {element.props.children}</div>
+          </div>
+        ))}
       </div>
   );
   }

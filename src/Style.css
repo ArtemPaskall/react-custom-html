@@ -33,15 +33,11 @@
   border-radius: 2px;
 }
 
-.tabcontent-border {
-  margin: 0 50px;
-  border-left: solid 2px rgb(151, 151, 151);
-}
-
 /* Style the tab content */
 .tabcontent {
   font-weight: normal;
   animation: fadeEffect 1s;
+  margin: 0 10px;
 }
 
 .tabcontent-item {
