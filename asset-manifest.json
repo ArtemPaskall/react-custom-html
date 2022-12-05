@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ArtemPaskall/react-custom-html/static/css/main.5ecbb27a.css",
-    "main.js": "/ArtemPaskall/react-custom-html/static/js/main.984e83f3.js",
-    "index.html": "/ArtemPaskall/react-custom-html/index.html",
-    "main.5ecbb27a.css.map": "/ArtemPaskall/react-custom-html/static/css/main.5ecbb27a.css.map",
-    "main.984e83f3.js.map": "/ArtemPaskall/react-custom-html/static/js/main.984e83f3.js.map"
+    "main.css": "/react-custom-html/static/css/main.5ecbb27a.css",
+    "main.js": "/react-custom-html/static/js/main.984e83f3.js",
+    "index.html": "/react-custom-html/index.html",
+    "main.5ecbb27a.css.map": "/react-custom-html/static/css/main.5ecbb27a.css.map",
+    "main.984e83f3.js.map": "/react-custom-html/static/js/main.984e83f3.js.map"
   },
   "entrypoints": [
     "static/css/main.5ecbb27a.css",
